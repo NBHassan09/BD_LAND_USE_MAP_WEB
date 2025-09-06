@@ -21,6 +21,7 @@ npm run dev
 - Land cover: ESA WorldCover 2021
 - BBS Yearbook (district land utilization)
 - See /public/data/ and /lib/
+- Not real data- based on realistic possible values
 
 ## License
 MIT
